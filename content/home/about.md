@@ -1,9 +1,18 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: "2"
 headless: true
 weight: 20
 title: 北落师门
-active: true
-author: admin
+design:
+  columns: "2"
+  background:
+    color: "#cdf5ff"
+    gradient_start: "#b62121"
+    gradient_end: "#227974"
+    text_color_light: true
+    image: ef959c1a178112c107ed17836da69b4b.jpg
 ---
+111111
