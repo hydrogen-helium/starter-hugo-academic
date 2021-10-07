@@ -1,7 +1,7 @@
 ---
 title: 北落师门
 role: 黄尘清水三山下 更变千年如走马
-avatar_filename: https://i.pximg.net/img-master/img/2013/06/18/17/11/16/36472312_p0_master1200.jpg
+avatar_filename: favicon.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -12,32 +12,16 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
+  - display:
+      header: false
+    link: https://github.com/hydrogen-helium
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon: github
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: NCU
+    url: http://www.ncu.edu.cn/
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
 highlight_name: true
