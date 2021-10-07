@@ -1,7 +1,7 @@
 ---
 title: 北落师门
 role: 黄尘清水三山下 更变千年如走马
-avatar_filename: favicon.jpg
+avatar_filename: https://i.pximg.net/img-master/img/2013/06/18/17/11/16/36472312_p0_master1200.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
