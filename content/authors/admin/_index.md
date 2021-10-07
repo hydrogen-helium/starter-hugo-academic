@@ -15,7 +15,7 @@ social:
   - display:
       header: false
     link: https://github.com/hydrogen-helium
-    icon_pack: fas
+    icon_pack: fab
     icon: github
 organizations:
   - name: NCU
