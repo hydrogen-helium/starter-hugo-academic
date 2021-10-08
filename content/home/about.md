@@ -13,6 +13,7 @@ design:
     gradient_start: "#b62121"
     gradient_end: "#227974"
     text_color_light: true
-    image: background2.jpg
+    image: background3.jpg
+    image_darken: 1
 ---
 111111
