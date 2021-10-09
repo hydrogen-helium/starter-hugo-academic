@@ -19,15 +19,18 @@ main:
   - name: 文章
     url: '#posts'
     weight: 60
-  - name: 资料
-    url: '#publication'
+  - name: 项目
+    url: '#project'
     weight: 70
+  - name: 资料
+    url: '#featured'
+    weight: 80
   - name: Tags
     url: '#tags'
-    weight: 80
+    weight: 90
   - name: 联系
     url: '#contact'
-    weight: 90
+    weight: 100
    
 
 # Link to a PDF of your resume/CV from the menu.
