@@ -14,6 +14,6 @@ design:
     gradient_end: "#ffffff"
     text_color_light: true
     image: background3.jpg
-    image_darken: 1
+    image_darken: 0
 ---
 111111
