@@ -10,8 +10,8 @@ design:
   columns: "2"
   background:
     color: "#cdf5ff"
-    gradient_start: "#b62121"
-    gradient_end: "#227974"
+    gradient_start: "#ffffff"
+    gradient_end: "#ffffff"
     text_color_light: true
     image: background3.jpg
     image_darken: 1
