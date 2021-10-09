@@ -19,4 +19,3 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
-© 2021 GitHub, Inc.
