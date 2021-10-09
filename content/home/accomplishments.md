@@ -33,6 +33,6 @@ weight: 50
 title: Accomplish&shy;ments
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
 111111
