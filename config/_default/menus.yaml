@@ -20,7 +20,7 @@ main:
     url: '#posts'
     weight: 60
   - name: 项目
-    url: '#project'
+    url: '#projects'
     weight: 70
   - name: 资料
     url: '#featured'
