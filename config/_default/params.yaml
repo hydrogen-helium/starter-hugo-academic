@@ -97,8 +97,9 @@ projects:
 breadcrumb:
   page_types:
     book: true
+    
 comments:
-  provider:''
+  provider: ''
   commentable:
     post: true
     book: true
@@ -110,6 +111,7 @@ comments:
     show_count: true
   commento:
     url: ''
+    
  # utterances:
  #   repo: hydrogen-helium/starter-hugo-academic
   #  issueTerm: pathname
@@ -121,6 +123,7 @@ comments:
    # gitalk_owner: 'hydrogen-helium'
   #  gitalk_admin: 'hydrogen-helium'
   #  distractionFreeMode: true
+  
 search:
   provider: wowchemy
   algolia:
