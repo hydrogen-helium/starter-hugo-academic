@@ -100,7 +100,7 @@ breadcrumb:
     
 comments:
   provider: utteranc
-  commentable:
+  commentable: true
     post: true
     book: true
     project: true
