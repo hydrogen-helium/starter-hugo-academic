@@ -34,13 +34,18 @@ main_menu:
   align: l
   show_logo: true
   show_language: true
+  show_translations: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
 
+#site footer 
+footer:
+  show_translations: true
+
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: '2006,1 2'
 time_format: '3:04 PM'
 address_format: en-us
 
