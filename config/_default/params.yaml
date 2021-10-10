@@ -99,7 +99,7 @@ breadcrumb:
     book: true
     
 comments:
-  provider: utteranc
+  provider: utterances
   commentable:
     post: true
     book: true
@@ -111,7 +111,7 @@ comments:
     show_count: true
   commento:
     url: ''
-  utteranc:
+  utterances:
     utl: https://utteranc.es/client.js
     repo: hydrogen-helium/starter-hugo-academic
     issueTerm: pathname
