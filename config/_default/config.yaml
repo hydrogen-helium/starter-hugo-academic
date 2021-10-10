@@ -6,23 +6,6 @@
 title: 辇道增七 # Website name
 baseurl: 'https://example.com/' # Website URL
 copyright: '© {2021} 辇道增七' # Footer text, e.g. '© {year} Me'
-main_menu:
-  # Display the navigation bar?
-  enable: true
-  # Align menu links: left (l), center (c), or right (r)
-  align: l
-  # Display your site title or `assets/media/logo*` image in the nav bar?
-  show_logo: true
-  # Show a language chooser (if you have translated your site content)?
-  show_translations: true
-  # If `show_translations` is enabled, do you wish to display the current language name?
-  show_language: false
-  # Let the user override the default light/dark mode of your theme?
-  show_day_night: true
-  # Let the user search from the nav bar?
-  show_search: true
-  # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
-  highlight_active_link: true
 
 ############################
 ## LANGUAGE
