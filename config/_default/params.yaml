@@ -110,6 +110,11 @@ comments:
     show_count: true
   commento:
     url: ''
+  utterances:
+    enable: true
+    repo: hydrogen-helium/blogcomment
+    issueTerm: pathname
+    theme: github-light
   #gitalk:
    # gitalk_clientID: '723843fe1d1ace9581c0'
    # gitalk_Secret: 'Secret'
