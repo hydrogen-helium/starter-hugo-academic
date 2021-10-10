@@ -96,8 +96,7 @@ projects:
   talk_view: 2
 breadcrumb:
   page_types:
-    book: true
-    
+    book: true  
 comments:
   provider: utterances
   commentable:
@@ -112,19 +111,11 @@ comments:
   commento:
     url: ''
   utterances:
-    utl: https://utteranc.es/client.js
+    url: https://utteranc.es/client.js
     repo: hydrogen-helium/starter-hugo-academic
     issueTerm: pathname
     theme: github-light
-    crossorigin: anonymous
-  #gitalk:
-   # gitalk_clientID: '723843fe1d1ace9581c0'
-   # gitalk_Secret: 'Secret'
-   # gitalk_repo: 'hydrogen-helium.github.io'
-   # gitalk_owner: 'hydrogen-helium'
-  #  gitalk_admin: 'hydrogen-helium'
-  #  distractionFreeMode: true
-  
+    crossorigin: anonymous 
 search:
   provider: wowchemy
   algolia:
