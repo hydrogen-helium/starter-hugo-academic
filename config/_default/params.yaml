@@ -110,13 +110,13 @@ comments:
     show_count: true
   commento:
     url: ''
-  gitalk:
-    gitalk_clientID: '723843fe1d1ace9581c0'
-    gitalk_Secret: 'Secret'
-    gitalk_repo: 'hydrogen-helium.github.io'
-    gitalk_owner: 'hydrogen-helium'
-    gitalk_admin: 'hydrogen-helium'
-    distractionFreeMode: true
+  #gitalk:
+   # gitalk_clientID: '723843fe1d1ace9581c0'
+   # gitalk_Secret: 'Secret'
+   # gitalk_repo: 'hydrogen-helium.github.io'
+   # gitalk_owner: 'hydrogen-helium'
+  #  gitalk_admin: 'hydrogen-helium'
+  #  distractionFreeMode: true
 search:
   provider: wowchemy
   algolia:
