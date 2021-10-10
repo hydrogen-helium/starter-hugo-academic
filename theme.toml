@@ -43,6 +43,12 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = "George Cushen"
   homepage = "https://georgecushen.com"
 
+[params.utteranc]
+  enable = true
+  repo = "hydrogen-helium/starter-hugo-academic"
+  issueTerm = "pathname"
+  theme = "github-light"
+
 # If porting an existing theme
 [original]
   name = ""
