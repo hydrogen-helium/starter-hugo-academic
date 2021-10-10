@@ -112,7 +112,7 @@ comments:
     url: ''
   utterances:
     enable: true
-    repo: hydrogen-helium/blogcomment
+    repo: hydrogen-helium/starter-hugo-academic
     issueTerm: pathname
     theme: github-light
   #gitalk:
