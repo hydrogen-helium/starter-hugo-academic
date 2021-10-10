@@ -123,7 +123,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: utteranc
   commentable:
     post: true
     book: true
@@ -135,6 +135,12 @@ comments:
     show_count: true
   commento:
     url: ''
+  params:
+  utteranc:
+    enable: true
+    repo: hydrogen-helium/starter-hugo-academic
+    issueTerm: pathname
+    theme: github-light
 search:
   provider: wowchemy
   algolia:
