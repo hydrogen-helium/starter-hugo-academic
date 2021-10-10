@@ -115,7 +115,8 @@ comments:
     repo: hydrogen-helium/blogcomment
     issueTerm: pathname
     theme: github-light
-    crossorigin: anonymous 
+    crossorigin: anonymous
+     
 search:
   provider: wowchemy
   algolia:
