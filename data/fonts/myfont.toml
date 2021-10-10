@@ -5,7 +5,7 @@ name = "myfont"
 google_fonts = "family=Bebas+Neue&family=Festive&family=Gemunu+Libre:wght@200;300;400;500;600;700;800&family=Josefin+Sans:wght@300&family=Liu+Jian+Mao+Cao&family=Long+Cang&family=Ma+Shan+Zheng&family=Montserrat:wght@300&family=Oswald:wght@300&family=Roboto+Condensed:wght@300&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Scheherazade+New&family=ZCOOL+QingKe+HuangYou&family=ZCOOL+XiaoWei&family=Zhi+Mang+Xing"
 
 # Font families
-heading_font = "Ma Shan Zheng"
-body_font = "ZCOOL QingKe HuangYou"
+heading_font = "ZCOOL XiaoWei"
+body_font = "Josefin Sans"
 nav_font = "ZCOOL QingKe HuangYou"
 mono_font = "ZCOOL QingKe HuangYou"
