@@ -7,5 +7,5 @@ google_fonts = "family=Bebas+Neue&family=Festive&family=Gemunu+Libre:wght@200;30
 # Font families
 heading_font = "Ma Shan Zheng"
 body_font = "ZCOOL QingKe HuangYou"
-nav_font = "Josefin Sans"
-mono_font = "Josefin Sans"
+nav_font = "ZCOOL QingKe HuangYou"
+mono_font = "ZCOOL QingKe HuangYou"
