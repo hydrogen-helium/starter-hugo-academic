@@ -112,7 +112,6 @@ comments:
   commento:
     url: ''
   utteranc:
-    enable：true
     repo: hydrogen-helium/starter-hugo-academic
     issueTerm: pathname
     theme: github-light
