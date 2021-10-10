@@ -98,7 +98,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: 'gitalk'
+  provider: ''
   commentable:
     post: true
     book: true
