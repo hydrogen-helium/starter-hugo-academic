@@ -67,9 +67,4 @@ related:
     - name: categories
       weight: 70
       
-[params.utteranc]
-  enable = true
-  repo = "hydrogen-helium/blogcomment" 
-  issueTerm = "pathname"
-  theme = "github-light"
 
