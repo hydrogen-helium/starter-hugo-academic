@@ -22,10 +22,10 @@ twitter: ''
 
 email: ningwuzi@gmail.com
 contact_links:
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+ # - icon: comments
+ #   icon_pack: fas
+ #   name: Discuss on Forum
+ #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
