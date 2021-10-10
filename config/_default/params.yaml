@@ -145,12 +145,3 @@ cms:
 icon:
   pack:
     ai: true
-    
----
-params:
-  utteranc:
-    enable: true
-    repo: hydrogen-helium/blogcomment
-    issueTerm: pathname
-    theme: github-light
-
