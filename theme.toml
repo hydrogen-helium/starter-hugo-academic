@@ -44,10 +44,11 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   homepage = "https://georgecushen.com"
 
 [params.utteranc]
-  enable = true
-  repo = "hydrogen-helium/starter-hugo-academic"
-  issueTerm = "pathname"
-  theme = "github-light"
+  url: https://utteranc.es/client.js
+  repo: hydrogen-helium/starter-hugo-academic
+  issue-term: title
+  theme: github-light
+  crossorigin: anonymous
 
 # If porting an existing theme
 [original]
