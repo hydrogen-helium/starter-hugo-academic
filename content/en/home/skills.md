@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 30
-title: 科技树
+title: skills
 subtitle: null
 feature:
   - description: 90%

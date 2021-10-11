@@ -5,7 +5,7 @@ author: admin
 widget_id: "2"
 headless: true
 weight: 21
-title: 辇道增七
+title: Albireo-Beta-Cyg
 design:
   columns: "2"
   background:
