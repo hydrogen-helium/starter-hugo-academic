@@ -30,7 +30,7 @@ item:
 widget_id: "1"
 headless: true
 weight: 50
-title: Accomplish&shy;ments
+title: 成就树
 subtitle: null
 design:
   columns: "2"
