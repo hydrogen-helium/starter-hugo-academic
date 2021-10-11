@@ -12,9 +12,9 @@ en:
 zh:
   languageCode: zh
   contentDir: content/zh
-  title: Chinese website title...
+  title: 辇道增七
   params:
-    description: Site description in Chinese...
+    description: 111
   menu:
     main:
       - name: 传
