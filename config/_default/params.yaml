@@ -114,7 +114,7 @@ comments:
 utterances:
   url: https://utteranc.es/client.js
   repo: hydrogen-helium/starter-hugo-academic
-  issue-term：title
+  issue-term: title
   theme: github-light
   crossorigin: anonymous
 
