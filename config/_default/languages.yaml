@@ -7,16 +7,17 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: Albireo-Beta-Cyg
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh
   contentDir: content/zh
   title: 辇道增七
-  params:
-    description: 111
-  menu:
-    main:
-      - name: 传
-        url: '#about'
-        weight: 1
+#  params:
+#    description: 111
+#  menu:
+ #   main:
+ #     - name: 传
+  #      url: '#about'
+   #     weight: 1
