@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 主页
+  - name: 关于
     url: '#about'
     weight: 10
   - name: 科技树
@@ -13,7 +13,7 @@ main:
   - name: 经历
     url: '#experience'
     weight: 30
-  - name: 成就
+  - name: 成就树
     url: '#accomplishments'
     weight: 50
   - name: 文章
@@ -22,7 +22,7 @@ main:
   - name: 项目
     url: '#projects'
     weight: 70
-  - name: 资料
+  - name: 精选
     url: '#featured'
     weight: 80
   - name: Tags
