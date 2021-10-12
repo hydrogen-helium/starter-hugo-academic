@@ -55,6 +55,8 @@ address_format: zh
 highlight: true
 highlight_languages:
   - r
+  - c
+  - python
 math: true
 diagram: true
 privacy_pack: false
