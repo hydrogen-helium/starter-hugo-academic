@@ -41,8 +41,8 @@ main_menu:
 
 #site footer 
 
-#footer:
-#  show_translations: true
+footer:
+  show_translations: true
 
 # Localization
 
