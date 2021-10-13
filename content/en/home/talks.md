@@ -7,14 +7,16 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
-title: 最近投稿
+active: false
+
+title: 'Recent & Upcoming Talks'
 subtitle:
 
 content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  # Page type to display. E.g. post, event, publication...
+  page_type: event
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria
@@ -37,5 +39,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 2
 ---
