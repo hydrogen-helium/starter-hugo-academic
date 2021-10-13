@@ -12,9 +12,9 @@ design:
     color: "#cdf5ff"
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
-    text_color_light: false
+    text_color_light: true
     image: background3.jpg
-    image_darken: 0.5
+    image_darken: 0.2
     image_parallax: true
     image_size: cover
     image_position: center
