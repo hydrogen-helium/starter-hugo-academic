@@ -39,5 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 3
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '3'
 ---
