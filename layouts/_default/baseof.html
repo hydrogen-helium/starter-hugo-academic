@@ -8,6 +8,8 @@
 {{- $highlight_active_link := site.Params.main_menu.highlight_active_link | default true -}}
 <body id="top" data-spy="scroll" {{ if $show_navbar }}data-offset="70"{{end}} data-target="{{ if or .IsHome (eq .Type "widget_page") | and $highlight_active_link }}#navbar-main{{else}}#TableOfContents{{end}}" class="page-wrapper {{with .Params.design.css_class}}{{.}}{{end}} {{ if not (.Scratch.Get "light") }}dark{{end}} {{ if not $show_navbar }}no-navbar{{end}}" {{with .File}}data-wc-page-id="{{.File.UniqueID}}"{{end}} {{with .Params.design.css_style}}style="{{. | safeCSS}}"{{end}}>
 
+  <script type="text/javascript" src="canvas/dist/canvas-nest.js"></script>
+
   {{/* Initialise Wowchemy. */}}
   {{ $js_license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
   {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
@@ -50,8 +52,6 @@
   {{ partial "citation" . }}
 
   {{ partial "site_js" . }}
-
-  <script type="text/javascript" src="canvas/dist/canvas-nest.js"></script>
 
 </body>
 </html>
