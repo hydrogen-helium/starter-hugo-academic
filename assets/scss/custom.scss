@@ -1,11 +1,12 @@
 // 添加目录栏
 .post-toc {
     position: absolute;
-    width: 400px;
-    margin-left: 1000px;
+    width: 200px;
+    margin-left: 800px;
     padding: auto;
     word-wrap: break-word;
     box-sizing: border-box;
+    border-style: dashed;
 
     .post-toc-title {
         margin: 0;
