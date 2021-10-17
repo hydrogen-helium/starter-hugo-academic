@@ -3,6 +3,10 @@
 <article class="article">
 
   {{ partial "page_header" . }}
+  
+  {{ if ( .Site.Params.toc | default true ) }}
+  {{ partial "toc.html" . }}
+{{ end }}
 
   <div class="article-container">
 
