@@ -1,7 +1,7 @@
 // 添加目录栏
 .post-toc {
     position: absolute;
-    width: 400px;
+    width: 500px;
     padding: auto;
     word-wrap: break-word;
     box-sizing: border-box;
@@ -68,6 +68,6 @@
 }
 @media only screen and (max-width: 1224px) {
     .post-toc {
-        display: none;
+        display: absolute;
     }
 } 
