@@ -9,7 +9,6 @@
     border-style: solid;
     border-color: white white white black;
     margin-top: 80px;
-    list-style-type: circle;
 
     .post-toc-title {
         margin: 0;
@@ -29,7 +28,7 @@
 
         ul {
             padding-left: 0;
-            list-style: circle;
+            list-style: circle inside;
 
             ul {
             padding-left: 15px;
