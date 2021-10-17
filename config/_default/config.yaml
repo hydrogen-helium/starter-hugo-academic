@@ -70,4 +70,9 @@ related:
 custom_js:
   - js/custom.js
 
+###############
+#page_content
+###############
+toc：true                # 是否开启目录
+autoCollapseToc：true   # Auto expand and collapse toc
 
