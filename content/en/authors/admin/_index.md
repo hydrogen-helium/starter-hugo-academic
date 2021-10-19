@@ -3,12 +3,11 @@ title: Albireo-Beta-Cyg
 role: Yellow dust and clear water beneath the three fairy mounts,The sea change of a thousand years as fleeting as
       a galloping horse.
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-     programmable matter.
+bio: My
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - test
+  - test
+  - test
 social:
   - icon: envelope
     icon_pack: fas

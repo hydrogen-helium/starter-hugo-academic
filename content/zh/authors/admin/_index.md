@@ -2,12 +2,11 @@
 title: 辇道增七
 role: 黄尘清水三山下 更变千年如走马
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: cesh
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 测试
+  - 测试
+  - 测试
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,4 +25,3 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-1111111111111111
