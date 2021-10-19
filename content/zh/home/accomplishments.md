@@ -3,13 +3,13 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: ''
+  - certificate_url:
     date_end: ""
     date_start: 2021-01-25
     description: ""
-    organization: ''
-    organization_url: ''
-    title: ''
+    organization:
+    organization_url:
+    title:
     url: ""
 widget_id: "1"
 headless: true

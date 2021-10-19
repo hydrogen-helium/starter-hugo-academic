@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: ''
+- icon:
   icon_pack: fab
   name: Follow
-  url: ''
+  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
