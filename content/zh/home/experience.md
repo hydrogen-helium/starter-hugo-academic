@@ -25,7 +25,6 @@ experience:
   - title: 111
     company: 111
     company_url: ''
-    company_logo: 555
     location: 888
     date_start: '2021-01-01'
     date_end: ''
@@ -38,7 +37,6 @@ experience:
         
   - title: 44
     company_url: ''
-    company_logo: 55
     location: 66
     date_start: '2016-01-01'
     date_end: '2020-12-31'
