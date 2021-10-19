@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title:
-    company:
+  - title: 111
+    company: 111
     company_url: ''
-    company_logo:
-    location:
-    date_start: ''
+    company_logo: 555
+    location: 888
+    date_start: '2021-01-01'
     date_end: ''
-    description: |2- 
-        Responsibilities include: 
-
-  - title:
-    company:
+    description: |2-
+        Responsibilities include:
+        
+        * 11
+        * 22
+        * 33
+        
+  - title: 44
     company_url: ''
-    company_logo:
-    location:
-    date_start: ''
-    date_end: ''
-    description:
+    company_logo: 55
+    location: 66
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: 77
 
 design:
   columns: '2'
