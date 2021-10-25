@@ -2,7 +2,7 @@
 widget: contact
 widget_id: "1"
 headless: true
-weight: 130
+weight: 150
 title: 联系
 subtitle: null
 active: true

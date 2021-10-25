@@ -5,7 +5,7 @@ role: Yellow dust and clear water beneath the three fairy mounts,The sea change 
 avatar_filename: avatar.jpg
 bio: My
 interests:
-  - test
+  - 懒得更英文版页面了，呼啊啊啊啊啊啊啊啊
   - test
   - test
 social:

@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 30
+weight: 100
 title: 科技树
 subtitle: null
 feature:
