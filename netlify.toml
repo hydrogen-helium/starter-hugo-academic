@@ -20,7 +20,7 @@
   [plugins.inputs]
     debug = true
 [[redirects]]
-  from = "http://albireobetacyg.top/"
-  to = "http://www.albireobetacyg.top"
+  from = "http://www.albireobetacyg.top/"
+  to = "http://albireobetacyg.top"
   status = 301
   force = true
