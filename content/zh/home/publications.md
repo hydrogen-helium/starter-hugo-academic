@@ -7,7 +7,7 @@ widget: pages
 headless: false
 
 # Order that this section appears on the page.
-weight: 90
+weight: 200
 
 title: 合集
 subtitle: ''
