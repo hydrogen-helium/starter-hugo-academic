@@ -21,10 +21,10 @@ social:
 organizations:
   - name: NCU
     url: http://www.ncu.edu.cn/
-education:
-  courses: []
-email: ""
+email: ningwuzi120@gmail.com
 superuser: true
 highlight_name: true
 ---
-qqqqqqqqqqqqqqqqqqq
+  #"我们何以走到这一步"
+- 疯狂就是用同一种思维重复去做同一种事，却期望每次能得到不同的结果
+- 你要自己去寻找钥匙
