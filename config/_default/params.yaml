@@ -7,7 +7,7 @@
 
 theme: mytheme
 day_night: true
-font: 'myfont'
+font: myfont
 font_size: XL
 
 # SEO
