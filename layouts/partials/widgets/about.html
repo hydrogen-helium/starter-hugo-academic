@@ -75,9 +75,9 @@
     {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
     <div class="article-style">
-      <p style="line-height: 5px;">
+      <p style="margin:5px">
       {{ $person_page.Content }}
-      <p>
+      </p>
     </div>
 
     <div class="row">
