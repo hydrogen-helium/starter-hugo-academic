@@ -93,6 +93,22 @@
       </div>
       {{ end }}
 
+      <style type="text/css">
+        .fireworks {
+          position: fixed;
+          pointer-events: none;
+          top: 0;
+          left: 0;
+          height: 100%;
+        }
+      </style>
+      <canvas class="fireworks"></canvas>
+      <script src="/assets/js/anime.min.js"></script>
+      <script src="/assets/js/fireworks.js"></script>
+      <script type="text/javascript">
+        fireworks.setCanvasSize();
+      </script>
+
 <!--
       {{ with $person.education }}
       <div class="col-md-7">
