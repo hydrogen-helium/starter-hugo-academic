@@ -1,3 +1,19 @@
+<style type="text/css">
+  .fireworks {
+    position: fixed;
+    pointer-events: none;
+    top: 0;
+    left: 0;
+    height: 100%;      
+    }
+</style>
+<canvas class="fireworks"></canvas>
+<script src="/assets/js/anime.min.js"></script>
+<script src="/assets/js/fireworks.js"></script>
+<script type="text/javascript">
+  fireworks.setCanvasSize();
+</script>
+     
 <!DOCTYPE html>
 {{- $language_code := site.LanguageCode | default "en-us" -}}
 <html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
