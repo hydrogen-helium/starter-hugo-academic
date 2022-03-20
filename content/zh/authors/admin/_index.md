@@ -1,14 +1,12 @@
 ---
 title: 辇道增七
-role: 黄尘清水三山下 更变千年如走马
+role: 四海翻腾云水怒，五洲震荡风雷激
 avatar_filename: avatar.jpg
-bio: 一个兴趣使然的个人小站
+bio: 学习，学习，再学习
 interests:
-  - 认知体系建设：信息输入 信息筛选 信息输出
-  - 历史：大部头 野史 波兰球 钢丝（bushi）
-  - 电子：画板子 泡板子 焊板子 航模 DIY小玩意（机械臂!）
-  - 天文：星野摄影 深空摄影 行星摄影（穷。。。）
-  - 
+  - focus on 哲学-西方学史
+  - focus on 历史-世界通史
+  - focus on 数学-补基础
 social:
   - icon: envelope
     icon_pack: fas
